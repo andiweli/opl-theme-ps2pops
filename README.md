@@ -15,6 +15,6 @@ A modified/upgraded themes for [OPL](https://www.ps2-home.com/forum/viewtopic.ph
 ![Preview of PS1 view](/images/preview-ps1.png)
 
 ## And of course, the animation
-It has been replaced in line with the bottom of the game list.
+It has been placed at the baseline with the bottom of the game list.
 
 ![Preview of animation](/images/loaderanim.gif)
