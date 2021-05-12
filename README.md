@@ -1,6 +1,7 @@
 # Open PS2 Launcher Theme
 A modified/upgraded themes for [OPL](https://www.ps2-home.com/forum/viewtopic.php?f=13&t=3).
 
+**12.05.2021:** Updated to v0.2 with some small optimizations
 **07.05.2021:** Uploaded a modified version of KORIUM theme by Berion (can be found in releases)
 * I modified some graphics, loader animation, icons and CFG as well as placements and the font
 * It is suitable for HD and was tested with OPL 1.1.0
