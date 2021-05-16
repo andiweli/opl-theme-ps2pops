@@ -8,14 +8,12 @@
 * It is suitable for HD and was tested with OPL 1.1.0
 * Oh yes, it is PS2+POPS only with USB - so no HDD, ETH or APPs!
 
-## The UI looks like this
+## The UI looks like this (Standard vs. Lite)
  You can switch between PS2 and PS1 (POPS) games easily.
 
 ![Preview of PS2 view](/images/preview-ps2.png)
-![Preview of PS2 Lite view](/images/preview-ps2-lite.png)
 
 ![Preview of PS1 view](/images/preview-ps1.png)
-![Preview of PS1 Lite view](/images/preview-ps1-lite.png)
 
 ## And of course, the animation
 It has been placed at the baseline with the bottom of the game list.
