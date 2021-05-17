@@ -23,6 +23,6 @@ PS1 tab (ELM)<br/>
 ![Preview of PS1 view](/images/preview-ps1.png)
 
 ## And of course, the animation
-It has been placed at the baseline with the bottom of the game list.
+It has been placed at the baseline of the game list.
 
 ![Preview of animation](/images/loaderanim.gif)
