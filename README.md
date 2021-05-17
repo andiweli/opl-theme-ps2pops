@@ -1,5 +1,5 @@
 # PS2/POPS Theme
-### an Open PS2 Launcher (OPL) theme especially for [PS2-Home's OPL](https://www.ps2-home.com/forum/viewtopic.php?f=13&t=3).
+### an Open PS2 Launcher (OPL) theme especially for [Jay-Jay's Open PS2 Loader](https://github.com/Jay-Jay-OPL/OPL-Daily-Builds).
 
 ### Latest News
 * **16.05.2021:** Updated to v0.3-Standard and v0.3-Lite with some small optimizations and a name-change<br/>
