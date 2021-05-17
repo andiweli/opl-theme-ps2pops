@@ -2,6 +2,7 @@
 ### an Open PS2 Launcher (OPL) theme especially for [Jay-Jay's Open PS2 Loader](https://github.com/Jay-Jay-OPL/OPL-Daily-Builds).
 
 ### Latest News
+* **17.05.2021:** Updated to v0.4-Standard&Lite with some small graphics changes<br/>
 * **16.05.2021:** Updated to v0.3-Standard and v0.3-Lite with some small optimizations and a name-change<br/>
 * **12.05.2021:** Updated to v0.2 with some small optimizations<br/>
 * **07.05.2021:** Uploaded a modified version of KORIUM theme by Berion (can be found in releases)
@@ -9,7 +10,7 @@
 ### What's inside?
 * based on KORIUM by Berion
 * modified graphics, new handmade loader animation, some icons and CFG as well as placements and a better font
-* suitable for HD (was tested with OPL 1.1.0)
+* suitable for HD (was tested with OPL 1.1.0-1939)
 * it is PS2+POPS only with USB especially for PS2 Slim consoles - so no HDD, ETH or APPs!
 
 ## The UI looks like this (Standard vs. Lite)
